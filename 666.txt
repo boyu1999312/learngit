@@ -3,3 +3,5 @@ append GPL
 ok ok!
 
 abab;
+
+666;
